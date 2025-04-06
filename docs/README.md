@@ -3,12 +3,15 @@
 Informações básicas do projeto.
 
 * **Projeto:** [EzFit]
-* **Repositório GitHub:** [LINK PARA O REPOSITÓRIO NO GITHUB]
+* **Repositório GitHub:** [https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-1-ti1-0385100-ezfit]
 * **Membros da equipe:**
 
-  * [Fulano](https://github.com/fulano) ⚠️ EXEMPLO ⚠️
-  * [Beltrano](https://github.com/beltrano) ⚠️ EXEMPLO ⚠️
-  * [Cicrano](https://github.com/cicrano) ⚠️ EXEMPLO ⚠️
+  * [Victor](https://github.com/Vamarall) ⚠️ EXEMPLO ⚠️
+  * [Andre](https://github.com/beltrano) ⚠️ EXEMPLO ⚠️
+  * [Bruno](https://github.com/cicrano) ⚠️ EXEMPLO ⚠️
+  * [Diego](https://github.com/cicrano) ⚠️ EXEMPLO ⚠️
+  * [Lucca](https://github.com/cicrano) ⚠️ EXEMPLO ⚠️
+  * [Matheus](https://github.com/cicrano) ⚠️ EXEMPLO ⚠️
 
 A documentação do projeto é estruturada da seguinte forma:
 
