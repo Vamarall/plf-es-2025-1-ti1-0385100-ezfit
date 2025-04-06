@@ -98,21 +98,18 @@ Nesse momento, vamos transformar os insights e validações obtidos em soluçõe
 
 ## Histórias de Usuários
 
-Com base na análise das personas foram identificadas as seguintes histórias de usuários:
+### 📋 Tabela de Personas
 
-| EU COMO...`PERSONA` | QUERO/PRECISO ...`FUNCIONALIDADE`        | PARA ...`MOTIVO/VALOR`               |
-| --------------------- | ------------------------------------------ | -------------------------------------- |
-| Usuário do sistema   | Registrar minhas tarefas ⚠️ EXEMPLO ⚠️ | Não esquecer de fazê-las             |
-| Administrador         | Alterar permissões ⚠️ EXEMPLO ⚠️      | Permitir que possam administrar contas |
+| EU COMO... `PERSONA`         | QUERO/PRECISO ... `FUNCIONALIDADE`                                 | PARA ... `MOTIVO/VALOR`                                                                 |
+|-----------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| Jovem sedentário            | Receber sugestões de treinos personalizados                         | Iniciar uma rotina saudável de forma acessível                                          |
+| Usuário iniciante           | Visualizar vídeos e conteúdos motivacionais                         | Manter a constância nos treinos e não desistir                                          |
+| Jovem com pouco tempo       | Criar uma rotina de treinos baseada no tempo disponível             | Conseguir se exercitar mesmo com uma agenda apertada                                    |
+| Pessoa nova na cidade       | Encontrar academias próximas                                        | Escolher o melhor local para treinar com praticidade                                    |
+| Usuário da comunidade       | Interagir com outros usuários em grupos de interesse                | Sentir-se pertencente e motivado por outras pessoas com objetivos parecidos             |
+| Amigo de um usuário         | Adicionar e acompanhar amigos                                        | Compartilhar conquistas, trocar experiências e manter a motivação                       |
+| Curioso sobre sedentarismo  | Acessar informações científicas sobre os riscos do sedentarismo     | Entender a importância de mudar de estilo de vida                                        |
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
->
-> **Orientações**:
->
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Proposta de Valor
 
@@ -130,35 +127,34 @@ Com base na análise das personas foram identificadas as seguintes histórias de
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
-### Requisitos Funcionais
+### ✅ Requisitos Funcionais
 
-| ID     | Descrição do Requisito                                   | Prioridade |
-| ------ | ---------------------------------------------------------- | ---------- |
-| RF-001 | Permitir que o usuário cadastre tarefas ⚠️ EXEMPLO ⚠️ | ALTA       |
-| RF-002 | Emitir um relatório de tarefas no mês ⚠️ EXEMPLO ⚠️ | MÉDIA     |
+| ID     | Descrição do Requisito                                                                 | Prioridade |
+|--------|------------------------------------------------------------------------------------------|------------|
+| RF-001 | Permitir que o usuário realize cadastro e login                                         | ALTA       |
+| RF-002 | Exibir informações científicas sobre os riscos do sedentarismo                         | MÉDIA      |
+| RF-003 | Permitir ao usuário montar uma rotina de treinos personalizada                         | ALTA       |
+| RF-004 | Sugerir treinos com base nas preferências do usuário (ex: em casa ou na academia)       | ALTA       |
+| RF-005 | Permitir que o usuário encontre academias próximas com base em localização              | MÉDIA      |
+| RF-006 | Exibir vídeos e artigos motivacionais                                                  | MÉDIA      |
+| RF-007 | Disponibilizar uma aba de comunidade para interação entre usuários                      | MÉDIA      |
+| RF-008 | Permitir adicionar amigos e visualizar perfis de outros usuários                        | MÉDIA      |
+| RF-009 | Oferecer um filtro de treinos baseado no tempo disponível                              | ALTA       |
 
-### Requisitos não Funcionais
+---
+
+### 🛠️ Requisitos Não Funcionais
 
 | ID      | Descrição do Requisito                                                              | Prioridade |
-| ------- | ------------------------------------------------------------------------------------- | ---------- |
-| RNF-001 | O sistema deve ser responsivo para rodar em um dispositivos móvel ⚠️ EXEMPLO ⚠️ | MÉDIA     |
-| RNF-002 | Deve processar requisições do usuário em no máximo 3s ⚠️ EXEMPLO ⚠️          | BAIXA      |
+|---------|---------------------------------------------------------------------------------------|------------|
+| RNF-001 | O sistema deve ser responsivo e funcionar corretamente em dispositivos móveis         | ALTA       |
+| RNF-002 | A aplicação deve estar disponível 24/7                                                | MÉDIA      |
+| RNF-003 | O tempo de resposta das requisições deve ser inferior a 3 segundos                    | MÉDIA      |
+| RNF-004 | Os dados dos usuários devem ser armazenados de forma segura                          | ALTA       |
+| RNF-005 | A aplicação deve suportar pelo menos 500 usuários simultâneos                         | BAIXA      |
 
-> ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
->
-> Os requisitos de um projeto são classificados em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na plataforma (ex: cadastro de usuário).
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade, desempenho, confiabilidade, segurança ou outro (ex: suporte a dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma característica alvo da sua solução. Além disso, certifique-se de que todos os aspectos capturados nas Histórias de Usuário foram cobertos.
->
-> **Orientações**:
->
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+
+
 
 ## Projeto de Interface
 
