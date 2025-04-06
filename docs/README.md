@@ -2,7 +2,7 @@
 
 Informações básicas do projeto.
 
-* **Projeto:** [NOME DO PROJETO]
+* **Projeto:** [EzFit]
 * **Repositório GitHub:** [LINK PARA O REPOSITÓRIO NO GITHUB]
 * **Membros da equipe:**
 
@@ -24,11 +24,14 @@ A documentação do projeto é estruturada da seguinte forma:
 
 # Contexto
 
-Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa e público-alvo.
+O sedentarismo tem se tornado um dos maiores problemas de saúde pública da atualidade, principalmente entre jovens adultos. A rotina agitada, o excesso de telas e a falta de motivação fazem com que muitas pessoas negligenciem a prática de atividades físicas, impactando diretamente sua qualidade de vida. Segundo a Organização Mundial da Saúde (OMS), o sedentarismo é responsável por milhões de mortes evitáveis todos os anos. Diante desse cenário, surge a necessidade de soluções digitais que estimulem e facilitem a adoção de um estilo de vida mais saudável.
+
+ O projeto EzFit foi idealizado como resposta a essa necessidade: uma aplicação web voltada à promoção de saúde, motivação e bem-estar físico de maneira acessível e personalizada.
 
 ## Problema
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+**✳️✳️✳️ 
+O sedentarismo é um problema crescente na sociedade moderna, impulsionado principalmente por estilos de vida cada vez mais digitais, rotinas estressantes e a falta de motivação para a prática regular de atividades físicas. Muitas pessoas desejam iniciar uma mudança, mas não sabem por onde começar, sentem-se desmotivadas ou não encontram apoio e orientação adequada. Essa realidade impacta diretamente a saúde física e mental da população, resultando em problemas como obesidade, ansiedade, baixa autoestima e doenças cardiovasculares. ✳️✳️✳️**
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
@@ -42,7 +45,15 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 ## Objetivos
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+**✳️✳️✳️ Objetivo Geral:
+ Desenvolver uma aplicação web capaz de incentivar a prática de atividades físicas e melhorar a qualidade de vida de jovens adultos sedentários.
+Objetivos Específicos:
+Criar um ambiente digital motivador e acessível.
+Fornecer informações científicas confiáveis sobre os riscos do sedentarismo.
+Permitir a criação de rotinas de exercícios físicas personalizadas.
+Sugerir atividades com base na localização e tempo disponível do usuário.
+Estimular a interação entre usuários através de uma aba de comunidade.
+Reforçar o engajamento com recomendações de vídeos e conteúdos motivacionais. ✳️✳️✳️**
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
@@ -54,7 +65,10 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 ## Justificativa
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+**✳️✳️✳️ A motivação para a criação do EzFit surgiu a partir da observação da realidade de muitos jovens adultos, que se encontram desmotivados ou sem orientação para iniciar uma rotina de cuidados com a saúde física. Diversos estudos e levantamentos indicam que o sedentarismo tem aumentado significativamente na faixa etária entre 18 e 25 anos, refletindo em problemas como obesidade, ansiedade e baixa produtividade.
+
+ A equipe realizou pesquisas preliminares com colegas universitários e jovens trabalhadores, os quais apontaram a falta de tempo, motivação e orientação adequada como as principais barreiras para iniciar uma rotina de exercícios.
+ Dessa forma, o EzFit se justifica como uma solução inovadora e relevante para esse público, utilizando recursos tecnológicos e linguagem acessível para promover saúde e bem-estar. ✳️✳️✳️**
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
@@ -68,7 +82,8 @@ Detalhes sobre o espaço de problema, os objetivos do projeto, sua justificativa
 
 ## Público-Alvo
 
-**✳️✳️✳️ COLOQUE AQUI O SEU TEXTO ✳️✳️✳️**
+**✳️✳️✳️ O público-alvo principal do EzFit são jovens adultos com idades entre 18 e 25 anos, estudantes universitários ou profissionais iniciando sua carreira, que convivem com rotinas intensas, pouca motivação e hábitos sedentários.
+ Esse grupo possui familiaridade com tecnologia, navega frequentemente por plataformas digitais e consome conteúdos online. A aplicação será pensada especialmente para este perfil: com uma interface moderna, recursos de personalização, estímulos motivacionais e funcionalidades sociais para aumentar o engajamento.✳️✳️✳️**
 
 > ⚠️ **APAGUE ESSA PARTE ANTES DE ENTREGAR SEU TRABALHO**
 >
